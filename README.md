@@ -1,5 +1,5 @@
 # Department of informatics, University of ioannina student.
 
-  Itchio Page: https://aggelostselios.itch.io/
+  Itchio Page: https://aggelostselios.itch.io/ (Game Development)
 
   
